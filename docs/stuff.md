@@ -1,6 +1,6 @@
 ---
 title: Random Stuff
-layout: post
+type: posts
 ---
 
 Here is my page on K8s.  

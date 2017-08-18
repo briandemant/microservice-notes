@@ -1,6 +1,6 @@
 ---
 title: Random Stuff
-layout: post
+type: pages
 ---
 
 Here is my page on stuff.  
