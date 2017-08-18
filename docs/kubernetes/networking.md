@@ -1,9 +1,8 @@
 ---
-title: Kuberntes Networking
-layout: post
+title: Kubernetes Networking
 ---
 
-# Kuberntes Networking
+# Kubernetes Networking
 
 Here is my page on networking.
 

@@ -1,6 +1,5 @@
 ---
 title: Random Stuff
-type: pages
 ---
 
 Here is my page on stuff.  
